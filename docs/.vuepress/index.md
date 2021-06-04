@@ -1,5 +1,4 @@
 ---
-permalink: /documentation
 home: true
 heroImage: 
 tagline:
