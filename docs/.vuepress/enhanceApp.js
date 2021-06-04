@@ -3,7 +3,7 @@ import VueDiscordMessage from 'vue-discord-message';
 export default ({ Vue }) => {
   Vue.use(VueDiscordMessage, {
     avatars: {
-      discordbuttons: require('.vuepress/assets/angelo.gif'),
+      discordbuttons: require('../.vuepress/assets/angelo.gif'),
     },
     profiles: {
       user: {
