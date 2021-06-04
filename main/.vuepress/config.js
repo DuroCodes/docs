@@ -32,7 +32,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/documentation/': [
+      'docs/documentation/': [
         {
           title: 'Getting Started',
           collapsable: false,
