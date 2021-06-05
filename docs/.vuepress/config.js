@@ -24,7 +24,7 @@ module.exports = {
     nav: [
       {
         text: 'Documentation',
-        link: '/documentation/',
+        link: '/documentation/#welcome',
       },
       {
         text: 'Github',
@@ -58,11 +58,20 @@ module.exports = {
             './constructors/message-action-row',
           ]
         },
+        {
+          title: 'Events/Collectors',
+          collapsable: false,
+          children: [
+            './events/clickButton',
+            './events/createButtonCollector',
+            './events/awaitButtons',
+          ]
+        },
       ],
     }
   },
 
-  theme: 'yuu',
+  theme: 'jac',
 
   markdown: {
     lineNumbers: true,

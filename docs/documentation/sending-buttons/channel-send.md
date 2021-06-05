@@ -1,7 +1,3 @@
----
-permalink: /documentation/sending-buttons/channel-send
----
-
 # Channel#send
 
 ### Send button with default message/embed
