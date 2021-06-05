@@ -62,8 +62,9 @@ module.exports = {
           title: 'Events/Collectors',
           collapsable: false,
           children: [
-            './constructors/message-button',
-            './constructors/message-action-row',
+            './events/clickButton',
+            './events/createButtonCollector',
+            './events/awaitButtons',
           ]
         },
       ],
