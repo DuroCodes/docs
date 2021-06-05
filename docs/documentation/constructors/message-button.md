@@ -39,6 +39,34 @@ But how would you acquire an emoji? Here is how:
 <img src="https://i.imgur.com/ZlHPIQl.png"></img>
 
 > Angelo, I would like custom emojis from my server.
-Look no further!
+
+Look no further! Here is how to do it:
+
+<b>1.</b> Get the emoji ID
+
+<img src="https://i.imgur.com/cMgQgli.png"></img>
+
+<b>2.</b> set the emoji using .setEmoji()
+
+.setEmoji('535993902180859914')
+
+But how would you acquire an emoji? Here is how:
+
+<img src="https://i.imgur.com/JQJRzQ7.gif"></img>
 ## Full Example
+
+```js
+const { MessageButton } = require("discord-buttons")
+
+client.on('message', async (message) => {
+    if (message.content.startsWith('!button')) {
+        let button = new MessageButton()
+            .setLabel("Vote")
+            .setStyle("url")
+            .setEmoji("🍔")
+            .setURL("https://discord-buttons.js.org")
+        await message.channel.send(`Ayo`, button);
+    }
+});
+```
 

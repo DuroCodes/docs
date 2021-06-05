@@ -20,6 +20,7 @@
   "dependencies": {
     "vue-discord-message": "^5.0.3",
     "vuepress-plugin-clean-urls": "^1.1.2",
-    "vuepress-theme-yuu": "^3.0.1"
+    "vuepress-theme-jac": "^1.1.0",
+    "vuepress-theme-yuu": "^3.1.1"
   }
 }

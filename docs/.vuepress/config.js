@@ -24,7 +24,7 @@ module.exports = {
     nav: [
       {
         text: 'Documentation',
-        link: '/documentation/',
+        link: '/documentation/#welcome',
       },
       {
         text: 'Github',
@@ -71,7 +71,7 @@ module.exports = {
     }
   },
 
-  theme: 'yuu',
+  theme: 'jac',
 
   markdown: {
     lineNumbers: true,
