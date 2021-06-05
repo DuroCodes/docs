@@ -1,7 +1,3 @@
----
-permalink: /documentation/contructors/messagebutton
----
-
 # MessageButton
 
 ## Text Button

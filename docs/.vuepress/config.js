@@ -58,6 +58,14 @@ module.exports = {
             './constructors/message-action-row',
           ]
         },
+        {
+          title: 'Events/Collectors',
+          collapsable: false,
+          children: [
+            './constructors/message-button',
+            './constructors/message-action-row',
+          ]
+        },
       ],
     }
   },

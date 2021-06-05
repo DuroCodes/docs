@@ -1,7 +1,3 @@
----
-permalink: /documentation/getting-started/installation
----
-
 # Installation
 
 Before installing the npm package, we must first make sure that we have discord.js v12 +. To do this we can open a command prompt where your node_modules are installed and type:

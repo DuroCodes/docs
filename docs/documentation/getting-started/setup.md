@@ -1,7 +1,3 @@
----
-permalink: /documentation/getting-started/setup
----
-
 # Setup
 
 ```js
