@@ -11,12 +11,12 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#2196f3' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['meta', { property: 'og:title', content: 'Get Started' }],
-    ['meta', { property: 'og:description', content: 'Discord.js buttons' }],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:url', content: 'https://discord-buttons.netlify.app/' }],
-    ['meta', { property: 'og:locale', content: 'en_US' }],
-    ['meta', { property: 'og:image', content: 'docs/.vuepress/assets/discordbuttons.png' }],
+		['meta', { property: 'og:title', content: 'Get Started' }],
+		['meta', { property: 'og:description', content: 'Discord.js buttons' }],
+		['meta', { property: 'og:type', content: 'website' }],
+		['meta', { property: 'og:url', content: 'https://discord-buttons.js.org' }],
+		['meta', { property: 'og:locale', content: 'en_US' }],
+		['meta', { property: 'og:image', content: 'https://i.imgur.com/Je6Rl0E.png' }],
   ],
 
   themeConfig: {
