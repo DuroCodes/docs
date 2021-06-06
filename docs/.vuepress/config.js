@@ -4,6 +4,7 @@ module.exports = {
 
   title: 'discord-buttons',
   description: 'Discord.js buttons',
+  base: "/docs/",
 
   head: [
     ['meta', { charset: 'utf-8' }],
