@@ -10,7 +10,12 @@ module.exports = {
     ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "https://i.imgur.com/0Dfw71u.png" }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { property: 'og:title', content: 'discord-buttons documentation' }],
+		['meta', { property: 'og:description', content: 'Official documentation for discord-buttons' }],
+		['meta', { property: 'og:type', content: 'website' }],
+		['meta', { property: 'og:url', content: 'https://discord-buttons.js.org' }],
+		['meta', { property: 'og:locale', content: 'en_US' }],
   ],
 
   themeConfig: {
