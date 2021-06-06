@@ -21,7 +21,7 @@ collector.on('end', collected => console.log(`Collected ${collected.size} items`
 | filter | [CollectorFilter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number) |
 | message | [Message](https://discord.js.org/#/docs/main/stable/class/Message) |
 | next | [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) |
-| options | [CollectorOptions](https://discord.js.org/#/docs/main/stable/typedef/CollectorOptions%C5%88) |
+| options | [CollectorOptions](https://discord.js.org/#/docs/main/stable/typedef/CollectorOptions) |
 | total |[Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number) |
 | users | [Collection](https://discord.js.org/#/docs/collection/master/class/Collection) |
 
