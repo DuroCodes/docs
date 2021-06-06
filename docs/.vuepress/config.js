@@ -37,8 +37,8 @@ module.exports = {
           title: 'Getting Started',
           collapsable: false,
           children: [
-            './getting-started/installation.md',
-            './getting-started/setup.md',
+            './getting-started/installation',
+            './getting-started/setup',
           ]
         },
         {
@@ -65,6 +65,14 @@ module.exports = {
             './events/clickButton',
             './events/createButtonCollector',
             './events/awaitButtons',
+          ]
+        },
+        {
+          title: 'Miscellaneous',
+          collapsable: false,
+          children: [
+            './miscellaneous/examples',
+            './miscellaneous/faq',
           ]
         },
       ],
