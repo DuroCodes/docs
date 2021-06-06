@@ -3,7 +3,7 @@ const { description } = require('../../package')
 module.exports = {
 
   title: 'discord-buttons',
-  description: description,
+  description: 'Discord.js buttons',
 
   head: [
     ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "https://i.imgur.com/m57ng0P.png" }],
