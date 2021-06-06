@@ -66,3 +66,9 @@ Q: Why this is not working? im using this repo/PR...
 
 A: PR's and Customized Repo/PR's (even suggested in #faq) can be buggy, and we don't support that and it's just a Temporary Solution
 You can use at Your own Risk or wait for Updates
+
+▬▬▬▬▬▬▬
+
+Q: button.clicker.user is still returning null
+
+A: try activating intents in the discord developer portal
