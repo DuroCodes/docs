@@ -65,11 +65,13 @@ client.on('message', async (message) => {
             .setLabel("I like")
             .setEmoji("🌭")
             .setID("like_hotdog")
+            .setStyle("red")
             
         let button2 = new MessageButton()
             .setLabel("I like")
             .setEmoji("🥞")
             .setID("like_pancake")
+            .setStyle("grey")
         
         let buttonRow = new MessageActionRow()
             .addComponent(button)
