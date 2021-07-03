@@ -11,7 +11,7 @@
 
 <style lang="stylus">
 .jac-logo .site-name {
-	background: url('/blue-icon.png') top left / contain no-repeat;
+	background: url('./assets/blue-icon.png') top left / contain no-repeat;
 	padding-left: 1.5em;
 	max-height: 100%;
 	display: flex;
@@ -38,7 +38,7 @@
 
 .jac-theme-red {
 	.jac-logo .site-name {
-		background-image: url('/red-icon.png');
+		background-image: url('./assets/red-icon.png');
 
 		.site-name-text {
 
@@ -51,7 +51,7 @@
 
 .jac-theme-mint {
 	.jac-logo .site-name {
-		background-image: url('/mint-icon.png');
+		background-image: url('./assets/mint-icon.png');
 
 		.site-name-text {
 
@@ -64,7 +64,7 @@
 
 .jac-theme-purple {
 	.jac-logo .site-name {
-		background-image: url('/purple-icon.png');
+		background-image: url('./assets/purple-icon.png');
 
 		.site-name-text {
 
