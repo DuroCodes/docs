@@ -28,7 +28,7 @@ module.exports = {
     nav: [
       {
         text: 'Documentation',
-        link: '/docs/welcome',
+        link: '/stable/#welcome',
       },
       {
         text: 'Github',
@@ -40,7 +40,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/d/': [
+      '/stable/': [
         {
           title: 'Getting Started',
           collapsable: false,
