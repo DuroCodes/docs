@@ -9,8 +9,8 @@
   },
   "repository": "https://github.com/discord-buttons/discord-buttons",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "dev": "vuepress dev #",
+    "build": "vuepress build #"
   },
   "license": "MIT",
   "homepage": "https://discord-buttons.github.io/docs",
