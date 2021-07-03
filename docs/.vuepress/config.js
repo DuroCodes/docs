@@ -81,6 +81,7 @@ module.exports = {
   plugins: [
     '@xiaopanda/vuepress-plugin-code-copy',
     '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom'
+    '@vuepress/plugin-medium-zoom',
+    'code-switcher'
   ]
 }
