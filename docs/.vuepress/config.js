@@ -1,3 +1,5 @@
+const JacLogo = require("./components/JacLogo.vue")
+
 module.exports = {
   title: "discord-buttons",
   base: "/docs/",
@@ -18,7 +20,7 @@ module.exports = {
   theme: 'jac',
   themeConfig: {
     jac: {
-      logo: 'JacLogo',
+      logo: JacLogo,
     },
     smoothScroll: true,
     searchPlaceholder: 'Search',
