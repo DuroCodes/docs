@@ -28,7 +28,7 @@ module.exports = {
     nav: [
       {
         text: 'Documentation',
-        link: '/d/#welcome',
+        link: '/#/welcome',
       },
       {
         text: 'Github',
