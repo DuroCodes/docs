@@ -1,3 +1,4 @@
+
 <template>
 	<router-link :to="$localePath" class="jac-logo">
 		<span class="site-name">
