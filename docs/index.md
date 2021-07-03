@@ -4,6 +4,7 @@ heroText: null
 tagline: null
 actionText: null
 actionLink:
+
 ---
 
 <div align="center">
@@ -11,9 +12,6 @@ actionLink:
   <p>
     <a href="https://www.npmjs.com/package/discord-buttons"><img src="https://img.shields.io/npm/v/discord-buttons?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/discord-buttons"><img src="https://img.shields.io/npm/dt/discord-buttons?maxAge=3600" alt="NPM downloads" /></a>
-  </p>
-  <p>
-    <a href="https://www.npmjs.com/package/discord-buttons"><img src="https://nodei.co/npm/discord-buttons.png?downloads=true&stars=true" alt="NPM Banner"></a>
   </p>
 </div>
 <div align="center">
